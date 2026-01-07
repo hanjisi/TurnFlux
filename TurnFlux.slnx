@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="src/TurnFlux.Frames/TurnFlux.Frames.csproj" />
+  <Project Path="src/TurnFlux.Lines/TurnFlux.Lines.csproj" />
+  <Project Path="src/TurnFlux.Modbus/TurnFlux.Modbus.csproj" />
   <Project Path="src/TurnFlux/TurnFlux.csproj" />
 </Solution>
